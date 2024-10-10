@@ -1,0 +1,3 @@
+[submodule "Libraries/loris"]
+	path = Libraries/loris
+	url = https://github.com/charlesneimog/loris

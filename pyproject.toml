@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "lorisbind"
+version = "0.0.1"
+authors = ["Charles K. Neimog <charlesneimog@outlook.com>"]
+
+[build-system]
+requires = [
+    "setuptools>=42",
+    "scikit-build>=0.13",
+    "cmake>=3.18",
+    "ninja",
+]
+build-backend = "setuptools.build_meta"
