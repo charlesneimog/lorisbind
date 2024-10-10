@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 _skbuild/linux-x86_64-3.11/cmake-build
 compile_commands.json
+_skbuild
